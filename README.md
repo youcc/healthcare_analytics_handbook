@@ -1,6 +1,10 @@
 # Healthcare Analytics Handbook
 All things about Healthcare Analytics!
 
+## Blogs
+
+- [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
+
 ## Great Books
 
 - [Clinical Intelligence: The Big Data Analytics Revolution in Healthcare: A Framework for Clinical and Business Intelligence](https://www.amazon.com/Clinical-Intelligence-Analytics-Revolution-Healthcare-ebook/dp/B00LMPD6XA)
