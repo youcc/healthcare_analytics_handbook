@@ -19,12 +19,14 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Healthcare Big Data Draft in Chinese](https://scholar.harvard.edu/files/ctang/files/healthcare_big_data_draft_in_chinese.pdf)
 - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
 - [Healthcare Data Analytics: Primary Methods and Related Insights](https://www.amazon.com/Healthcare-Data-Analytics-Primary-Insights/dp/1694588742)
+- [Interpreting the Medical Literature](https://www.amazon.com/Interpreting-Medical-Literature-Epidemiology-Clinicians-ebook/dp/B005FQHD8Q)
 - [Multivariable Analysis: A Practical Guide for Clinicians and Public Health Researchers](https://www.amazon.com/Multivariable-Analysis-Cambridge-Medicine-Hardcover-ebook/dp/B0054NUBA2)
 - [SAS Data Analytic Development: Dimensons of Software Quality](https://www.amazon.com/SAS-Data-Analytic-Development-Dimensions/dp/111924076X)
 - [SAS Programming with Medicare Administrative Data](https://www.amazon.com/SAS-Programming-Medicare-Administrative-Data/dp/1612903223)
 - [Study Design and Statistical Analysis: A Practical Guide for Clinicians](https://www.amazon.com/Study-Design-Statistical-Analysis-Clinicians-ebook/dp/B00AKE1QUE)
 - [The CMIO Survival Guide: A Handbook for Chief Medical Information Officers and Those Who Hire Them](https://www.amazon.com/CMIO-Survival-Guide-Handbook-Information-ebook/dp/B079RMPLYQ)
 - [The Project Manager's Guide to Health Information Technology Implementation](https://www.taylorfrancis.com/books/mono/10.4324/9781003206668/project-manager-guide-health-information-technology-implementation-susan-houston)
+- [The Truth about Health Care: Why Reform is Not Working in America](https://www.amazon.com/Truth-About-Health-Care-Critical-ebook/dp/B000V8AML8)
 
 ## Projects  
 
