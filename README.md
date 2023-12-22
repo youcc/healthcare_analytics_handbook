@@ -24,7 +24,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [SAS Programming with Medicare Administrative Data](https://www.amazon.com/SAS-Programming-Medicare-Administrative-Data/dp/1612903223)
 - [Study Design and Statistical Analysis: A Practical Guide for Clinicians](https://www.amazon.com/Study-Design-Statistical-Analysis-Clinicians-ebook/dp/B00AKE1QUE)
 - [The CMIO Survival Guide: A Handbook for Chief Medical Information Officers and Those Who Hire Them](https://www.amazon.com/CMIO-Survival-Guide-Handbook-Information-ebook/dp/B079RMPLYQ)
-- [The Project Manager's Guide to Health Information Technology Implementation]([the project manager's guide to health informaiton technology implementation](https://www.taylorfrancis.com/books/mono/10.4324/9781003206668/project-manager-guide-health-information-technology-implementation-susan-houston))
+- [The Project Manager's Guide to Health Information Technology Implementation](https://www.taylorfrancis.com/books/mono/10.4324/9781003206668/project-manager-guide-health-information-technology-implementation-susan-houston)
 
 ## Projects  
 
