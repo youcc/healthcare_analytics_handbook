@@ -31,6 +31,8 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 ## Newsletters
 
 - [Health Data Science](https://healthdatascience.substack.com/)
+- [Healthcare Brew](https://www.healthcare-brew.com/)
+- [Medical Futurist](https://medicalfuturist.com/)
 
 ## Public Data Sources
 - [NPPES](https://npiregistry.cms.hhs.gov/search)
