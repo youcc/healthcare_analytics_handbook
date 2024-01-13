@@ -28,6 +28,9 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [The Project Manager's Guide to Health Information Technology Implementation](https://www.taylorfrancis.com/books/mono/10.4324/9781003206668/project-manager-guide-health-information-technology-implementation-susan-houston)
 - [The Truth about Health Care: Why Reform is Not Working in America](https://www.amazon.com/Truth-About-Health-Care-Critical-ebook/dp/B000V8AML8)
 
+## Courses
+ - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
+ 
 ## Newsletters
 
 - [Health Data Science](https://healthdatascience.substack.com/)
