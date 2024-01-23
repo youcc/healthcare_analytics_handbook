@@ -5,13 +5,10 @@ All things about Healthcare Analytics!
 Please submit a pull request if there is any thing you'd like to contribute. Thanks!
 
 ## Blogs
-
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
 
 
-
 ## Books
-
 - [Clinical Intelligence: The Big Data Analytics Revolution in Healthcare: A Framework for Clinical and Business Intelligence](https://www.amazon.com/Clinical-Intelligence-Analytics-Revolution-Healthcare-ebook/dp/B00LMPD6XA)
 - [Clinical Research Methods for Surgeons](https://www.amazon.com/Clinical-Research-Methods-Surgeons-Penson/dp/1588293262)
 - [Geek Doctor: Life as Healthcare CIO](https://www.amazon.com/Geek-Doctor-Life-Healthcare-HIMSS-ebook/dp/B084B2LBGQ)
@@ -28,18 +25,18 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [The Project Manager's Guide to Health Information Technology Implementation](https://www.taylorfrancis.com/books/mono/10.4324/9781003206668/project-manager-guide-health-information-technology-implementation-susan-houston)
 - [The Truth about Health Care: Why Reform is Not Working in America](https://www.amazon.com/Truth-About-Health-Care-Critical-ebook/dp/B000V8AML8)
 
+  
 ## Courses
- - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
+- [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
 
 ## Guiding Principles
--[Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
+- [Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
 
 ## Journals
--[Medicare & Medicaid Research Review (MMRR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/medicare-medicaid-research-review-mmrr)
--[Health Care Financing Review (HCFR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/healthcare-financing-review)
+- [Medicare & Medicaid Research Review (MMRR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/medicare-medicaid-research-review-mmrr)
+- [Health Care Financing Review (HCFR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/healthcare-financing-review)
  
 ## Newsletters
-
 - [Health Data Science](https://healthdatascience.substack.com/)
 - [Healthcare Brew](https://www.healthcare-brew.com/)
 - [Medical Futurist](https://medicalfuturist.com/)
@@ -53,16 +50,13 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [CMS Public Data Sets](https://data.cms.gov/)
 
 ## Projects  
-
 - [The TUVA project](https://thetuvaproject.com/)
     - The Tuva Project is a large collection of tools organized into many GitHub repos that transform raw healthcare data into quality-tested data that is ready for analysis and machine learning. At the center of the project is the Tuva data model, a standard data model designed for healthcare analytics. These docs describe how to install, use, and contribute to the Tuva Project.
 
 ## Repos
-
 - [Healthcare-Analytics](https://github.com/msasnur/Healthcare-Analytics)
     - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better. 
 
 ## Websites
-
 - [Learn about CMS data](https://resdac.org/learn)
 
