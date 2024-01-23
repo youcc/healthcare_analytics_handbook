@@ -33,6 +33,10 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 
 ## Guiding Principles
 -[Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
+
+## Journals
+-[Medicare & Medicaid Research Review (MMRR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/medicare-medicaid-research-review-mmrr)
+-[Health Care Financing Review (HCFR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/healthcare-financing-review)
  
 ## Newsletters
 
