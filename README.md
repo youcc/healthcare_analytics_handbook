@@ -44,8 +44,8 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 
 ## Public Data Sources
 - [Care Compare](https://www.medicare.gov/care-compare/)
-- [CDC Open Technology](https://open.cdc.gov/)
-- [CMS Public Data Sets](https://data.cms.gov/)
+- [Centers for Disease Control and Prevention (CDC) Open Technology](https://open.cdc.gov/)
+- [Centers for Medicare & Medicaid Services (CMS) Public Data Sets](https://data.cms.gov/)
 - [Global Health Observatory](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates)
 - [NPPES](https://npiregistry.cms.hhs.gov/search)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
@@ -56,7 +56,8 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
     - The Tuva Project is a large collection of tools organized into many GitHub repos that transform raw healthcare data into quality-tested data that is ready for analysis and machine learning. At the center of the project is the Tuva data model, a standard data model designed for healthcare analytics. These docs describe how to install, use, and contribute to the Tuva Project.
 
 ## Repos
-- [CDC Official repo](https://github.com/CDCgov)
+- [CDC](https://github.com/CDCgov)
+- [CMS](https://github.com/CMSgov)
 - [Healthcare-Analytics](https://github.com/msasnur/Healthcare-Analytics)
     - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better. 
 
