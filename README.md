@@ -29,6 +29,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 ## Courses
 - [AI in Health Care](https://www.coursera.org/articles/ai-in-health-care)
 - [Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+- [Health Policy 101](https://www.kff.org/health-policy-101/)
 
 ## Guiding Principles
 - [Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
