@@ -11,6 +11,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 ## Books
 - [Clinical Intelligence: The Big Data Analytics Revolution in Healthcare: A Framework for Clinical and Business Intelligence](https://www.amazon.com/Clinical-Intelligence-Analytics-Revolution-Healthcare-ebook/dp/B00LMPD6XA)
 - [Clinical Research Methods for Surgeons](https://www.amazon.com/Clinical-Research-Methods-Surgeons-Penson/dp/1588293262)
+- [Data Analysis in Medicine and Health using R](https://bookdown.org/drki_musa/dataanalysis/)
 - [Geek Doctor: Life as Healthcare CIO](https://www.amazon.com/Geek-Doctor-Life-Healthcare-HIMSS-ebook/dp/B084B2LBGQ)
 - [Health Economics and Policy](https://www.amazon.com/Health-Economics-Policy-James-Henderson/dp/0357132866)
 - [Healthcare Analytics Made Simple:Techniques in healthcare computing using machine learning and Python](https://www.amazon.com/Healthcare-Analytics-Made-Simple-Techniques-ebook/dp/B0721MVT3W/)
