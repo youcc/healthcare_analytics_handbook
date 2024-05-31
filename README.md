@@ -9,10 +9,15 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 
 
 ## Books
+- [Analytics and AI for Healthcare: Book Series](https://www.routledge.com/analytics-and-AI-for-healthcare/book-series/Aforhealth?utm_source=cjaffiliates&utm_medium=affiliates&cjevent=4392160b1ef911ef803d24d40a82b838)
+    - [Digital Health: A Primer](https://www.routledge.com/Digital-Health-A-Primer/Wickramasinghe/p/book/9781032331683)
+    - [Dimensions of Intelligent Analytics for Smart Digital Health Solutions](https://www.routledge.com/Dimensions-of-Intelligent-Analytics-for-Smart-Digital-Health-Solutions/Wickramasinghe-Bodendorf-Kraus/p/book/9781032699721)
+    - [Translational Application of Artificial Intelligence in Healthcare: - A Textbook](https://www.routledge.com/Translational-Application-of-Artificial-Intelligence-in-Healthcare---A-Textbook/Reddy/p/book/9781032200880)
+    - [Data Driven Science for Clinically Actionable Knowledge in Diseases](https://www.routledge.com/Data-Driven-Science-for-Clinically-Actionable-Knowledge-in-Diseases/Catchpoole-Simoff-Kennedy-Nguyen/p/book/9781032273518)
+    - [Data Analysis in Medicine and Health using R](https://bookdown.org/drki_musa/dataanalysis/)
+    - [Explainable AI in Healthcare: Unboxing Machine Learning for Biomedicine](https://www.routledge.com/Explainable-AI-in-Healthcare-Unboxing-Machine-Learning-for-Biomedicine/Raval-Roy-Kaya-Kapdi/p/book/9781032367118)
 - [Clinical Intelligence: The Big Data Analytics Revolution in Healthcare: A Framework for Clinical and Business Intelligence](https://www.amazon.com/Clinical-Intelligence-Analytics-Revolution-Healthcare-ebook/dp/B00LMPD6XA)
 - [Clinical Research Methods for Surgeons](https://www.amazon.com/Clinical-Research-Methods-Surgeons-Penson/dp/1588293262)
-- [Data Analysis in Medicine and Health using R](https://bookdown.org/drki_musa/dataanalysis/)
-- [Digital Health: A Primer](https://www.amazon.com/Digital-Health-Primer-Analytics-Healthcare/dp/1032331690)
 - [Geek Doctor: Life as Healthcare CIO](https://www.amazon.com/Geek-Doctor-Life-Healthcare-HIMSS-ebook/dp/B084B2LBGQ)
 - [Health Economics and Policy](https://www.amazon.com/Health-Economics-Policy-James-Henderson/dp/0357132866)
 - [Healthcare Analytics Made Simple: Techniques in healthcare computing using machine learning and Python](https://www.amazon.com/Healthcare-Analytics-Made-Simple-Techniques-ebook/dp/B0721MVT3W/)
@@ -34,17 +39,21 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 - [Health Policy 101](https://www.kff.org/health-policy-101/)
 
+
 ## Guiding Principles
 - [Good Machine Learning Practice for Medical Device Development: Guiding Principles](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
+
 
 ## Journals
 - [Medicare & Medicaid Research Review (MMRR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/medicare-medicaid-research-review-mmrr)
 - [Health Care Financing Review (HCFR)](https://www.cms.gov/data-research/statistics-trends-and-reports/archives/healthcare-financing-review)
+
  
 ## Newsletters
 - [Health Data Science](https://healthdatascience.substack.com/)
 - [Healthcare Brew](https://www.healthcare-brew.com/)
 - [Medical Futurist](https://medicalfuturist.com/)
+
 
 ## Public Data Sources
 - [Care Compare](https://www.medicare.gov/care-compare/)
@@ -55,15 +64,19 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
    - [Medical Informatics Operating Room Vitals and Events Repository](https://archive.ics.uci.edu/dataset/877/mover:+medical+informatics+operating+room+vitals+and+events+repository)
 
+
 ## Projects  
 - [The TUVA project](https://thetuvaproject.com/)
     - The Tuva Project is a large collection of tools organized into many GitHub repos that transform raw healthcare data into quality-tested data that is ready for analysis and machine learning. At the center of the project is the Tuva data model, a standard data model designed for healthcare analytics. These docs describe how to install, use, and contribute to the Tuva Project.
+
 
 ## Repos
 - [CDC](https://github.com/CDCgov)
 - [CMS](https://github.com/CMSgov)
 - [Healthcare-Analytics](https://github.com/msasnur/Healthcare-Analytics)
-    - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better. 
+    - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
+ 
+
 
 ## Websites
 - [Learn about CMS data](https://resdac.org/learn)
