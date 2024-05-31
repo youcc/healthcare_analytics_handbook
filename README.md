@@ -13,6 +13,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Clinical Research Methods for Surgeons](https://www.amazon.com/Clinical-Research-Methods-Surgeons-Penson/dp/1588293262)
 - [Geek Doctor: Life as Healthcare CIO](https://www.amazon.com/Geek-Doctor-Life-Healthcare-HIMSS-ebook/dp/B084B2LBGQ)
 - [Health Economics and Policy](https://www.amazon.com/Health-Economics-Policy-James-Henderson/dp/0357132866)
+- [Healthcare Analytics Made Simple:Techniques in healthcare computing using machine learning and Python](https://www.amazon.com/Healthcare-Analytics-Made-Simple-Techniques-ebook/dp/B0721MVT3W/)
 - [Healthcare Big Data Draft in Chinese](https://scholar.harvard.edu/files/ctang/files/healthcare_big_data_draft_in_chinese.pdf)
 - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
 - [Healthcare Data Analytics: Primary Methods and Related Insights](https://www.amazon.com/Healthcare-Data-Analytics-Primary-Insights/dp/1694588742)
