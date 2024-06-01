@@ -77,7 +77,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
     - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
  
 ## Summer Internship Programs
--[Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
+- [Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
  
 
 
