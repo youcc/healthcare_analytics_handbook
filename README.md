@@ -62,6 +62,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Centers for Medicare & Medicaid Services (CMS) Public Data Sets](https://data.cms.gov/)
 - [Global Health Observatory](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates)
 - [NPPES](https://npiregistry.cms.hhs.gov/search)
+- [Patient Matching](https://github.com/onc-healthit/patient-matching)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
    - [Medical Informatics Operating Room Vitals and Events Repository](https://archive.ics.uci.edu/dataset/877/mover:+medical+informatics+operating+room+vitals+and+events+repository)
 
