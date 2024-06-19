@@ -1,8 +1,22 @@
 # Healthcare Analytics Handbook
 
-All things about Healthcare Analytics!
+This repo has all the resources you need to be good at Healthcare Analytics!
 
 Please submit a pull request if there is any thing you'd like to contribute. Thanks!
+
+## Table of contents
+
+- [Blogs](#blogs)
+- [Books](#books)
+- [Courses](#courses)
+- [Guiding Principles](#guiding-principles)
+- [Journals](#journals)
+- [Newsletters](#newsletters)
+- [Open Data](#open-data)
+- [Projects](#projects)
+- [Repos](#repos)
+- [Summer Internship](#summer-internship)
+- [Websites](#websites)
 
 ## Blogs
 - [An Introduction to Claims Data](https://medium.com/trilliant-health/an-introduction-to-claims-data-e123d68bbe39)
@@ -57,7 +71,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Medical Futurist](https://medicalfuturist.com/)
 
 
-## Public Data Sources
+## Open Data
 - [Care Compare](https://www.medicare.gov/care-compare/)
 - [Centers for Disease Control and Prevention (CDC) Open Technology](https://open.cdc.gov/)
 - [Centers for Medicare & Medicaid Services (CMS) Public Data Sets](https://data.cms.gov/)
@@ -80,7 +94,7 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [Healthcare-Analytics](https://github.com/msasnur/Healthcare-Analytics)
     - Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
  
-## Summer Internship Programs
+## Summer Internship
 - [Vanderbilt Biomedical Informatics Summer Program](https://www.vumc.org/dbmi/summer-research-internship-program-biomedical-informatics)
  
 
