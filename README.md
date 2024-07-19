@@ -87,6 +87,8 @@ Please submit a pull request if there is any thing you'd like to contribute. Tha
 - [The TUVA project](https://thetuvaproject.com/)
     - The Tuva Project is a large collection of tools organized into many GitHub repos that transform raw healthcare data into quality-tested data that is ready for analysis and machine learning. At the center of the project is the Tuva data model, a standard data model designed for healthcare analytics. These docs describe how to install, use, and contribute to the Tuva Project.
 
+## Organizations
+- [Health Care Cost Institute](https://healthcostinstitute.org/)
 
 ## Repos
 - [CDC](https://github.com/CDCgov)
