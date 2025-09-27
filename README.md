@@ -46,6 +46,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 ### [Section II: Hard Skills](hard-skills.md)
 - Chapter 4: Healthcare Data Architecture
     - [Healthcare Data Warehousing](/ch4/healthcare-data-warehousing.md)
+    - [Data Lakes in Healthcare](/ch4/data-lake-in-healthcare.md)
 - Chapter 5: Data Modeling for Healthcare
 - Chapter 6: SQL for Healthcare Analytics
 - Chapter 7: Visualization for Healthcare Data
