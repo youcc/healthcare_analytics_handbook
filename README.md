@@ -1,8 +1,22 @@
 # Healthcare Analytics Engineer Handbook
 
-This handbook aims to bridge the gap between healthcare domain knowledge and techincal analytics skills -- something I wish I had when starting my journey in this field. 
+This handbook aims to bridge the gap between healthcare domain knowledge and technical analytics skills -- something I wish I had when starting my journey in this field. 
 
 I welcome your contributions, feedback, and suggestions as we continue to build this resource together. Whether you're a seasoned healthcare analytics professional or just starting your journey, there's a place for you in this community!
+
+## Who Is This For?
+
+This handbook is for anyone entering or growing in healthcare analytics — whether you are a data analyst, data engineer, or analytics engineer who has just joined a healthcare organization and feels overwhelmed by the domain, or a healthcare professional who wants to level up their technical skills. No clinical background is required. No prior healthcare data experience is assumed.
+
+## If You're Brand New, Read in This Order
+
+1. **Ch1** — Understand the world you are working in (the players, the money, the care models)
+2. **Ch2** — Learn the data: what it is, where it comes from, and how it is governed
+3. **Ch4** — Understand how healthcare data systems are architected
+4. **Ch5** — Learn how to model that data for analytics
+5. **Ch3** — See real use cases and case studies that put it all together
+6. **Ch6–8** — Build the hard technical skills: SQL, visualization, advanced analytics
+7. **[Glossary](glossary.md)** — When you hit an unfamiliar acronym (and you will), check here first
 
 ## Getting started
 I like the Data Roles Continuum created by [Zack Wilson](https://x.com/EcZachly/status/1853677599647736255). For comprehensive data engineering resources, his [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) is excellent.
@@ -22,7 +36,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 ![image](/images/1747015184675.jpeg)
 [Fig Source](https://www.linkedin.com/posts/oleg-agapov_junior-analytics-engineer-vs-senior-analytics-activity-7328800084475740160-pHQY?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAHHH-IBHredFGXdtkjlqgEEg9Z8xQMQwdE)
 
-## Table of contents
+## Table of Contents
 
 ### [Section I: Business Knowledge](healthcare-knowledge.md)
 - Chapter 1: Healthcare System Fundamentals
@@ -50,16 +64,21 @@ Across all fields, professionals typically need three essential capabilities: bu
     - [EHR Integration Strategies](/ch4/ehr-integration-strategies.md)
     - [Healthcare Data Architecture](/ch4/healthcare-data-architecture.md)
 - Chapter 5: Data Modeling for Healthcare
-- Chapter 6: SQL for Healthcare Analytics
-- Chapter 7: Visualization for Healthcare Data
-- Chapter 8: Advanced Analytics in Healthcare
+    - [Dimensional Modeling for Healthcare Data](/ch5/dimensional-modeling-for-healthcare-data.md)
+    - [Working with Time-Series Clinical Data](/ch5/working-with-time-series-clinical-data.md)
+    - [Patient Journey Mapping](/ch5/patient-journey-mapping.md)
+    - [Providers and Facility Hierarchies](/ch5/provider-and-facility-hierarchies.md)
+- Chapter 6: SQL for Healthcare Analytics *(coming soon)*
+- Chapter 7: Visualization for Healthcare Data *(coming soon)*
+- Chapter 8: Advanced Analytics in Healthcare *(coming soon)*
 ### [Section III: Soft Skills](soft-skills.md)
-- Chapter 9: Collaboration with Healthcare Stakeholders
-- Chapter 10: Healthcare Analytics Project Management
-- Chapter 11: Translating Business Questions to Analytics
-- Chapter 12: Ethical Consideration in Healthcare Analytics
+- Chapter 9: Collaboration with Healthcare Stakeholders *(coming soon)*
+- Chapter 10: Healthcare Analytics Project Management *(coming soon)*
+- Chapter 11: Translating Business Questions to Analytics *(coming soon)*
+- Chapter 12: Ethical Consideration in Healthcare Analytics *(coming soon)*
 
 ## Appendices
+- [Glossary](glossary.md)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Courses](#courses)
@@ -173,7 +192,7 @@ Across all fields, professionals typically need three essential capabilities: bu
 - [TheCodingDocs](https://www.thecodingdocs.com/home)
 - [Michigan ADRC Data Sharing Hub](https://michiganadc.github.io/dmsc-madc/)
 
-### Socla Media Accounts
+### Social Media Accounts
 Here's the mostly comprehensive list of data engineering creators: 
 | Name                 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50"/><br/> YouTube | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> <br/> LinkedIn | <img src="https://icon2.cleanpng.com/20240402/kzp/transparent-x-logo-woman-black-and-white-photography-street-fa-woman-in-dark-clothing-walking-determinedly660c4b50383a25.14507568.webp" width="50"><br/> X/Twitter | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> <br/> Instagram | <img src="https://icon2.cleanpng.com/20240214/kxl/transparent-tiktok-logo-tiktok-logo-blue-and-pink-lettering-re-retro-style-tiktok-logo-evoking-1950s-1710878265139.webp" width="50"> <br/> TikTok |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
